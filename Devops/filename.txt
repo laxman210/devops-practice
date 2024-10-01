@@ -1,0 +1,15 @@
+hello world
+
+welcome to Devops project
+
+here we learn about few important tools:
+
+git
+GitHub
+maven
+Tomcat
+Jenkins
+Docker
+Kubernetes
+ansible 
+terraform
